@@ -1,37 +1,42 @@
-CarShop — Система управления автосалоном
+# CarShop — Car Dealership Management System
 
-Этот проект представляет собой веб-приложение для автосалона, разработанное для демонстрации навыков веб-верстки и управления проектами через GitHub.
+This project is a web application for a car dealership, developed to demonstrate web development skills and project management using GitHub.
 
-О проекте:
+## About the Project
 
-Сайт позволяет пользователям просматривать каталог автомобилей, знакомиться с характеристиками моделей и навигацией по автосалону.
+The website allows users to browse a car catalog, explore vehicle specifications, and navigate through the dealership interface.
 
-Технологии:
+## Technologies Used
 
-HTML5
+* HTML5
+* CSS3
+* JavaScript
 
-CSS3
+## Development Stages (Milestones)
 
-JavaScript
+The project is divided into three stages:
 
-Этапы разработки (Milestones)
+### Milestone 1
 
-Проект разбит на три этапа:
+Requirements analysis, project structure design, and preparation of media resources.
 
-Milestone 1: Анализ требований, проектирование структуры и подготовка медиа-ресурсов.
+### Milestone 2
 
-Milestone 2: Верстка основных страниц (index.html, about.html, catalog.html) и стилизация интерфейса.
+Development of the main pages (`index.html`, `about.html`, `catalog.html`) and interface styling.
 
-Milestone 3: Финальное тестирование, оптимизация и подготовка документации.
+### Milestone 3
 
-Как запустить:
+Final testing, optimization, and documentation preparation.
 
-Клонируйте репозиторий: git clone https://github.com/Ckoko228/CarShop.git
+## How to Run
 
-Откройте index.html в вашем браузере.
+Clone the repository:
 
-Авторы:
+`git clone https://github.com/Ckoko228/CarShop.git`
 
-Maksim Štšepelev
+Open `index.html` in your browser.
 
-Daniel Gvirdzhishvili
+## Authors
+
+* Maksim Štšepelev
+* Daniel Gvirdzhishvili
